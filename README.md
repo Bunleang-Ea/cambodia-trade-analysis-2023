@@ -27,11 +27,11 @@ From January to November 2023, Cambodia's global trade heavily relied on three p
 *(Note: To display the images below, ensure you have saved your charts into an `images/` folder in your repository and update the file paths accordingly).*
 
 ### Top 5 Export Partners
-![Top 5 Export Partners](images/export_chart.png)
+![Top 5 Export Partners](visualization/export_chart.png)
 *Highlights the extreme market dominance of the USA in purchasing Cambodian exports.*
 
 ### Global Trade Balance Breakdown
-![Trade Balance Diverging Bar Chart](images/trade_balance_chart.png)
+![Trade Balance Diverging Bar Chart](visualization/trade_balance_chart.png)
 *A diverging bar chart showcasing trade surpluses (Green) vs. trade deficits (Red).*
 
 ## ⚙️ How to Run This Project
