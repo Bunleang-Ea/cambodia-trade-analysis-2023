@@ -24,7 +24,6 @@ From January to November 2023, Cambodia's global trade heavily relied on three p
 3. **Vietnam (13.51% Market Share):** A balanced, high-volume regional partner with a moderate deficit of -$655 million.
 
 ## 📈 Visualizations
-*(Note: To display the images below, ensure you have saved your charts into an `images/` folder in your repository and update the file paths accordingly).*
 
 ### Top 5 Export Partners
 ![Top 5 Export Partners](visualization/export_chart.png)
