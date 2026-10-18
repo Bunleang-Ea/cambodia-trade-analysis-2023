@@ -1,4 +1,4 @@
-# 🇰🇭 Cambodia Global Trade Analysis (Jan-Nov 2023)
+# Cambodia Global Trade Analysis (Jan-Nov 2023)
 
 ## 📌 Project Overview
 This project analyzes Cambodia's international trade data from January to November 2023 to identify the country's top trading partners, assess market share, and evaluate trade surpluses and deficits. The goal of this analysis is to determine the concentration of Cambodia's global trade and visualize key economic dependencies.
